@@ -1,0 +1,14 @@
+layout_spectrum: 0.8609022
+typography_spectrum: 0.1111708
+color:
+  saturation: 0.9399838
+  lightness: 0.8970352
+  brandStrength: 0.3646616
+  brandColors:
+    - '#0D0908'
+    - '#999798'
+    - '#543650'
+    - '#DE5477'
+    - '#DBBEA9'
+  rhythmicContrast: 0.9287996
+name: Guinnevere
